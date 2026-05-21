@@ -1,0 +1,6 @@
+{
+  "name": "Bengali Podcast TTS Studio",
+  "description": "An interactive multi-speaker Text-to-Speech studio for Bengali creator content, powered securely by Gemini 3.1 Flash TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
